@@ -28,6 +28,7 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/-Burp%20Suite-000000?&style=for-the-badge&logo=burpsuite&logoColor=white" />
    <img src="https://img.shields.io/badge/-tcpdump-1F6FEB?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ### Endpoint
