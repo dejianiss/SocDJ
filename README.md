@@ -60,6 +60,8 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 
 <!-- PowerShell -->
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Traceroute%20%2F%20Tracert-4B8BBE?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-WHOIS%20%2F%20DNS%20Lookup-2E86C1?&style=for-the-badge&logo=internetarchive&logoColor=white" />
 </div>
 
 ### Endpoint
