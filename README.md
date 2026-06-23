@@ -70,8 +70,63 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 </div>
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <div>
+
+<!-- Windows Event Viewer -->
+<img src="https://img.shields.io/badge/-Windows_Event_Viewer-1F6FEB?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Windows Security Logs -->
+<img src="https://img.shields.io/badge/-Windows_Security_Logs-0EA5E9?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Microsoft Defender Antivirus -->
+<img src="https://img.shields.io/badge/-Microsoft_Defender_Antivirus-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<!-- PowerShell -->
+<img src="https://img.shields.io/badge/-PowerShell-2563EB?&style=for-the-badge&logo=powershell&logoColor=white" />
+
+<!-- Local Security Policy -->
+<img src="https://img.shields.io/badge/-Local_Security_Policy-4B5563?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Sysmon -->
+<img src="https://img.shields.io/badge/-Sysmon-111827?&style=for-the-badge&logoColor=white" />
+
+<!-- Sysinternals Suite -->
+<img src="https://img.shields.io/badge/-Sysinternals_Suite-0F172A?&style=for-the-badge&logoColor=white" />
+
+<!-- Process Explorer -->
+<img src="https://img.shields.io/badge/-Process_Explorer-3B82F6?&style=for-the-badge&logoColor=white" />
+
+<!-- Process Monitor -->
+<img src="https://img.shields.io/badge/-Process_Monitor-10B981?&style=for-the-badge&logoColor=white" />
+
+<!-- Autoruns -->
+<img src="https://img.shields.io/badge/-Autoruns-F59E0B?&style=for-the-badge&logoColor=white" />
+
+<!-- Task Manager -->
+<img src="https://img.shields.io/badge/-Task_Manager-6B7280?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Resource Monitor -->
+<img src="https://img.shields.io/badge/-Resource_Monitor-64748B?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- WMI -->
+<img src="https://img.shields.io/badge/-WMI-334155?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- Windows Defender for Endpoint -->
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<!-- CrowdStrike Falcon -->
+<img src="https://img.shields.io/badge/-CrowdStrike_Falcon-DC2626?&style=for-the-badge&logoColor=white" />
+
+<!-- SentinelOne -->
+<img src="https://img.shields.io/badge/-SentinelOne-7C3AED?&style=for-the-badge&logoColor=white" />
+
+<!-- Carbon Black -->
+<img src="https://img.shields.io/badge/-Carbon_Black-111827?&style=for-the-badge&logoColor=white" />
+
+<!-- Velociraptor -->
+<img src="https://img.shields.io/badge/-Velociraptor-0EA5E9?&style=for-the-badge&logoColor=white" />
+
+</div>
 </div>
 
 ### SIEM
