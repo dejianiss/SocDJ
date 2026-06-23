@@ -7,7 +7,10 @@ I am a Junior Cybersecurity Analyst with a strong interest in security operation
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+**Objective**
+
+With a growing passion for cybersecurity and a strong foundation in technology, I am seeking to transition into a Security Operations Center (SOC) environment as a Tier 1 SOC Analyst. I am eager to apply my knowledge of security monitoring, threat detection, incident response, and log analysis while continuing to develop my skills in defending organizations against evolving cyber threats.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
