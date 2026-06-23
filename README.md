@@ -25,10 +25,41 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Burp%20Suite-000000?&style=for-the-badge&logo=burpsuite&logoColor=white" />
-   <img src="https://img.shields.io/badge/-tcpdump-1F6FEB?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+   <!-- Wireshark -->
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<!-- Nmap -->
+<img src="https://img.shields.io/badge/-Nmap-004A7C?&style=for-the-badge&logo=linux&logoColor=white" />
+
+<!-- Nessus -->
+<img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" />
+
+<!-- Metasploit Framework -->
+<img src="https://img.shields.io/badge/-Metasploit-2596BE?&style=for-the-badge&logoColor=white" />
+
+<!-- Burp Suite -->
+<img src="https://img.shields.io/badge/-Burp%20Suite-000000?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<!-- Shodan -->
+<img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
+
+<!-- Cisco Packet Tracer -->
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+
+<!-- Netcat -->
+<img src="https://img.shields.io/badge/-Netcat-444444?&style=for-the-badge&logoColor=white" />
+
+<!-- Aircrack-ng -->
+<img src="https://img.shields.io/badge/-Aircrack--ng-2E8B57?&style=for-the-badge&logoColor=white" />
+
+<!-- tcpdump -->
+<img src="https://img.shields.io/badge/-tcpdump-1F6FEB?&style=for-the-badge&logo=linux&logoColor=white" />
+
+<!-- Windows Event Viewer -->
+<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<!-- PowerShell -->
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 ### Endpoint
