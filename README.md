@@ -132,9 +132,34 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <div>
+
+<!-- Splunk -->
+<a href="https://www.splunk.com/">
+<img src="https://img.shields.io/badge/-Splunk-FF6F00?&style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
+
+<!-- Windows Event Viewer -->
+<a href="https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-viewer">
+<img src="https://img.shields.io/badge/-Windows_Event_Viewer-1F6FEB?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<!-- Windows Event Logs (Security Logs) -->
+<a href="https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-logon-events">
+<img src="https://img.shields.io/badge/-Windows_Security_Logs-0EA5E9?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<!-- Log Ingestion Concept (SIEM Pipelines) -->
+<a href="https://www.splunk.com/en_us/data-insider/what-is-data-ingestion.html">
+<img src="https://img.shields.io/badge/-SIEM_Log_Ingestion_Concept-10B981?&style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+
+<!-- Microsoft Sentinel -->
+<a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel">
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+</div>
 </div>
 
 ## Certifications
