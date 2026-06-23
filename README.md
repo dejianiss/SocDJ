@@ -13,7 +13,8 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Security Log Analysis                   | <a href="https://github.com/dejianiss/Windows-Security-Log-">Windows Security Monitoring Project</a> |
+| Windows Security Log Analysis                   | ## 🔗 Project Link
+[Windows Security Monitoring Project](https://github.com/dejianiss/Windows-Security-Log-) |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
