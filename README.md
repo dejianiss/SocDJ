@@ -24,45 +24,50 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 
 ### Network
 <div>
-   <!-- Wireshark -->
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<!-- Wireshark -->
+<img src="https://img.shields.io/badge/-Wireshark-0B5FA5?&style=for-the-badge&logo=wireshark&logoColor=white" />
 
 <!-- Nmap -->
-<img src="https://img.shields.io/badge/-Nmap-004A7C?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-1B4D3E?&style=for-the-badge&logo=linux&logoColor=white" />
 
 <!-- Nessus -->
-<img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-00A86B?&style=for-the-badge&logoColor=white" />
 
 <!-- Metasploit Framework -->
-<img src="https://img.shields.io/badge/-Metasploit-2596BE?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2C7DA0?&style=for-the-badge&logoColor=white" />
 
 <!-- Burp Suite -->
-<img src="https://img.shields.io/badge/-Burp%20Suite-000000?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-3A3A3A?&style=for-the-badge&logo=burpsuite&logoColor=white" />
 
 <!-- Shodan -->
-<img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shodan-B30000?&style=for-the-badge&logoColor=white" />
 
 <!-- Cisco Packet Tracer -->
-<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0077B6?&style=for-the-badge&logo=cisco&logoColor=white" />
 
 <!-- Netcat -->
-<img src="https://img.shields.io/badge/-Netcat-444444?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netcat-4F4F4F?&style=for-the-badge&logoColor=white" />
 
 <!-- Aircrack-ng -->
-<img src="https://img.shields.io/badge/-Aircrack--ng-2E8B57?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aircrack--ng-2E7D32?&style=for-the-badge&logoColor=white" />
 
 <!-- tcpdump -->
 <img src="https://img.shields.io/badge/-tcpdump-1F6FEB?&style=for-the-badge&logo=linux&logoColor=white" />
 
 <!-- Windows Event Viewer -->
-<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-005A9C?&style=for-the-badge&logo=windows&logoColor=white" />
 
 <!-- PowerShell -->
-<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/-Traceroute%20%2F%20Tracert-4B8BBE?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-WHOIS%20%2F%20DNS%20Lookup-2E86C1?&style=for-the-badge&logo=internetarchive&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-PowerShell-2563EB?&style=for-the-badge&logo=powershell&logoColor=white" />
 
+<!-- Traceroute / Tracert -->
+<img src="https://img.shields.io/badge/-Traceroute%20%2F%20Tracert-3B82F6?&style=for-the-badge&logo=linux&logoColor=white" />
+
+<!-- WHOIS / DNS Lookup -->
+<img src="https://img.shields.io/badge/-WHOIS%20%2F%20DNS%20Lookup-0284C7?&style=for-the-badge&logo=internetarchive&logoColor=white" />
+
+</div>
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
