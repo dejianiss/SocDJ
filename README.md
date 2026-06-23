@@ -70,7 +70,6 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 </div>
 ### Endpoint
 <div>
-   <div>
 
 <!-- Windows Event Viewer -->
 <img src="https://img.shields.io/badge/-Windows_Event_Viewer-1F6FEB?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -127,7 +126,7 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 <img src="https://img.shields.io/badge/-Velociraptor-0EA5E9?&style=for-the-badge&logoColor=white" />
 
 </div>
-</div>
+
 
 ### SIEM
 <div>
