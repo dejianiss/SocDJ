@@ -173,5 +173,5 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 </div>
 
 ## Projects
-- Windows Security Monitoring
+- <a href="https://github.com" target="_blank">Windows Security Monitoring</a>
 - SOC Automation Project
