@@ -173,5 +173,5 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 </div>
 
 ## Projects
-- <a href="https://github.com" target="_blank">Windows Security Monitoring</a>
+- <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md" target="_blank">Windows Security Monitoring</a>
 - SOC Automation Project
