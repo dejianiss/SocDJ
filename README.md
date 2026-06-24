@@ -173,5 +173,5 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 </div>
 
 ## Projects
-- Detection Lab
+- Windows Security Monitoring
 - SOC Automation Project
