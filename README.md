@@ -1,13 +1,11 @@
 # Hello there! I'm Ayodeji Gabriel
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Junior Cybersecurity Analyst with a strong interest in security operations, threat detection, and incident response. This GitHub portfolio showcases my hands-on cybersecurity projects, including Windows security monitoring, log analysis, PowerShell automation, Python scripting, and SOC-focused security investigations.
-
+I am a Cybersecurity Analyst with a strong interest in security operations, threat detection, and incident response. This GitHub portfolio showcases my hands-on cybersecurity projects, including Windows security monitoring, log analysis, PowerShell automation, Python scripting, and SOC-focused security investigations.
 
 ## Objective
 
-With a growing passion for cybersecurity and a strong foundation in technology, I am seeking to transition into a Security Operations Center (SOC) environment as a Tier 1 SOC Analyst. I am eager to apply my knowledge of security monitoring, threat detection, incident response, and log analysis while continuing to develop my skills in defending organizations against evolving cyber threats.
-
+With a strong foundation in cybersecurity and hands-on SOC training, I am focused on contributing to a Security Operations Center (SOC) as a Tier 1 SOC Analyst. I am eager to apply my skills in security monitoring, threat detection, incident response, and log analysis while continuously developing my ability to defend against evolving cyber threats.
 
 ## Skills
 
