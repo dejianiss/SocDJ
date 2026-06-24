@@ -14,7 +14,7 @@ With a growing passion for cybersecurity and a strong foundation in technology, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Monitoring & Log Analysis| <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md">Windows Security Monitoring</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md">SSH Honeypot Monitoring & SSH Hardening</a>|
+| Cybersecurity Operations & Infrastructure Security | <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md">SSH Honeypot Monitoring & SSH Hardening</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
