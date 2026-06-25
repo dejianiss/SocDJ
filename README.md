@@ -171,4 +171,5 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 
 ## Projects
 - <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md" target="_blank">Windows Security Monitoring</a>
-- SOC Automation Project
+- <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project">
+  SSH Honeypot Monitoring & SSH Hardening Project </a>
