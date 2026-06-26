@@ -172,4 +172,4 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 ## Projects
 - <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md" target="_blank">Windows Security Monitoring</a>
 - <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md" target="_blank">SSH Honeypot Monitoring & SSH Hardening Project </a>
-[Web Application Penetration Testing & OWASP Security Analysis](https://github.com/dejianiss/OWASP-Juice-Shop-Penetration-Testing-Vulnerability-Assessment)
+- [Web Application Penetration Testing & OWASP Security Analysis](https://github.com/dejianiss/OWASP-Juice-Shop-Penetration-Testing-Vulnerability-Assessment)
