@@ -13,7 +13,7 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 |-----------------------------------------------|----------------------------|
 | Security Monitoring & Log Analysis| <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md">Windows Security Monitoring</a> |
 | Cybersecurity Operations & Infrastructure Security | <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md">SSH Honeypot Monitoring & SSH Hardening</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | [OWASP-Juice-Shop](https://github.com/dejianiss/OWASP-Juice-Shop-Penetration-Testing-Vulnerability-Assessment)|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
