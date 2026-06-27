@@ -65,6 +65,10 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 <!-- WHOIS / DNS Lookup -->
 <img src="https://img.shields.io/badge/-WHOIS%20%2F%20DNS%20Lookup-0284C7?&style=for-the-badge&logo=internetarchive&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-FTK%20Imager-00599C?&style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-SilentEye-6A0DAD?&style=for-the-badge&logo=eyeem&logoColor=white" />
+
 </div>
 
 ### Endpoint
