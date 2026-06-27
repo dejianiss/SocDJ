@@ -134,7 +134,6 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 
 ### SIEM
 <div>
-    <div>
 
 <!-- Splunk -->
 <a href="https://www.splunk.com/">
@@ -162,6 +161,15 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 </a>
 
 </div>
+
+### Other Tools
+
+<div>
+    <!-- FTK Imager -->
+    <img src="https://img.shields.io/badge/-FTK%20Imager-00599C?&style=for-the-badge&logo=windows&logoColor=white" />
+ <!-- Silent Eye -->
+    <img src="https://img.shields.io/badge/-SilentEye-6A0DAD?&style=for-the-badge&logo=eyeem&logoColor=white" />
+    
 </div>
 
 ## Certifications
