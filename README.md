@@ -14,7 +14,7 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 | Security Monitoring & Log Analysis| <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md">Windows Security Monitoring</a> |
 | Cybersecurity Operations & Infrastructure Security | <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md">SSH Honeypot Monitoring & SSH Hardening</a>|
 | Web Application Penetration Testing & OWASP Security Analysis         | [OWASP-Juice-Shop](https://github.com/dejianiss/OWASP-Juice-Shop-Penetration-Testing-Vulnerability-Assessment/blob/main/README.md)|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Digital Forensics & Incident Response (DFIR)   | [Digital Forensics & Steganography](https://github.com/dejianiss/Digital-Forensics-and-Steganography-Recovering-Hidden-Data-from-a-JPG-Image/blob/main/README.md)|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -185,3 +185,4 @@ With a strong foundation in cybersecurity and hands-on SOC training, I am focuse
 - <a href="https://github.com/dejianiss/Windows-Security-Log-Analysis/blob/main/README.md" target="_blank">Windows Security Monitoring</a>
 - <a href="https://github.com/dejianiss/SSH-Honeypot-Monitoring-SSH-Hardening-Project/blob/main/README.md" target="_blank">SSH Honeypot Monitoring & SSH Hardening Project </a>
 - [Web Application Penetration Testing & OWASP Security Analysis](https://github.com/dejianiss/OWASP-Juice-Shop-Penetration-Testing-Vulnerability-Assessment/blob/main/README.md)
+- [Digital Forensics & Steganography](https://github.com/dejianiss/Digital-Forensics-and-Steganography-Recovering-Hidden-Data-from-a-JPG-Image/blob/main/README.md)
