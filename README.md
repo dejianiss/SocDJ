@@ -1,6 +1,6 @@
 # Hello there! I'm Ayodeji Gabriel
-<a href="https://www.linkedin.com/in/ayodeji-anigboro-06008a406/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/ayodeji-anigboro-06008a406/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 I am a Cybersecurity Analyst with a strong interest in security operations, threat detection, and incident response. This GitHub portfolio showcases my hands-on cybersecurity projects, including Windows security monitoring, log analysis, PowerShell automation, Python scripting, and SOC-focused security investigations.
